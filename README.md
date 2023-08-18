@@ -11,6 +11,8 @@ and this one is just his tweets from 12/2017 - 2/1/2021
 
 https://public.tableau.com/app/profile/lisa3690/viz/DrumpfTweets12-17-PresentDay/FrequencybySubjectMonth
 
-The spreadsheet does include links to the tweets, however, since a certain someone is no longer on Twitter, you cannot see them. And, the other two accounts have been replaced by the current Biden administration personnel. The csv file is a historical record of the tweets at those particular timeframes. The dates for this data set of tweets is 3/14/2017 - 8/10/2018. The csv files are in their own repo.
+The spreadsheet does include links to the tweets, however, since a certain someone is no longer on Twitter*, you cannot see them. And, the other two accounts have been replaced by the current Biden administration personnel. The csv file is a historical record of the tweets at those particular timeframes. The dates for this data set of tweets is 3/14/2017 - 8/10/2018. The csv files are in their own repo.
 
 I wanted to try out Vader. What is below is me learning how to use Vader to analyze the sentiments of the tweets. I'm not sure what I'll find. It's all a learning process & a WIP! :)
+
+*His account was restored and all the tweets are visible. Even the ones filled with misinformation and election fraud claims. I can't believe they're still visible. 
